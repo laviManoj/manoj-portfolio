@@ -186,10 +186,10 @@ const StyledSnackbar = styled(Snackbar)`
   top: 50%; 
   right: 50%; 
   width: 100px;
-`;
-
-const Contact = () => {
-  const [open, setOpen] = useState(false);
+  `;
+  
+  const Contact = () => {
+    const [open, setOpen] = useState(false);
   const [userEmail, setUserEmail] = useState("");
   const [userName, setUserName] = useState("");
   const [userMsg, setUsermsg] = useState("");
@@ -197,8 +197,7 @@ const Contact = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    
-    const apiKey = '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'; // Replace with your actual Brevo API key
+    const apiKey = process.env.REACT_APP_BRAVO_KEY; 
     const url = 'https://api.brevo.com/v3/smtp/email';
 
     const emailData = {
