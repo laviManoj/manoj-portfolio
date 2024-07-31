@@ -16,7 +16,7 @@ const Navbar = () => {
       <NavbarContainer id="nav-menu">
         <NavLogo to='/'>
           <div style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Jishnu</Span>
+            <DiCssdeck size="3rem" /> <Span>Manoj H</Span>
           </div>
         </NavLogo>
         <MobileIcon>
