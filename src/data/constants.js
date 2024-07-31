@@ -8,7 +8,7 @@ export const Bio = {
   github: "https://github.com/laviManoj",
   resume: "",
   linkedin: "https://www.linkedin.com/in/manoj-h-6b15a3219",
-  about: "Hello, I'm Manoj H, an aspiring developer from Shivamogga, Bangalore, eager to enter the world of web development with the MERN stack. Despite being new to the field, I'm enthusiastic about learning and have gained hands-on experience with technologies like React, Node.js, Express, Postgress SQl, and MongoDB during my studies. I'm dedicated to crafting user-friendly interfaces and scalable backends, always striving to expand my skills with the latest tools and technologies. If you have opportunities for someone starting out like me, please feel free to connect. Thank you for considering my profile.",
+  about: "Hello, I'm Jishnu, an aspiring developer from Shivamogga, Bangalore, eager to enter the world of web development with the MERN stack. Despite being new to the field, I'm enthusiastic about learning and have gained hands-on experience with technologies like React, Node.js, Express, Postgress SQl, and MongoDB during my studies. I'm dedicated to crafting user-friendly interfaces and scalable backends, always striving to expand my skills with the latest tools and technologies. If you have opportunities for someone starting out like me, please feel free to connect. Thank you for considering my profile.",
   // twitter: "",
   // insta: "https://www.instagram.com/theshubham_03/?igshid=MzMyNGUyNmU2YQ%3D%3D",
   // facebook: " ",
